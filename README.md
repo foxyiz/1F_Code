@@ -44,7 +44,7 @@ FoXYiZ/
 ### 1. Clone the Repository
 
 ```bash
-git clone <https://github.com/foxyiz/1F_Code.git>
+git clone https://github.com/foxyiz/1F_Code.git
 cd FoXYiZ
 ```
 
